@@ -5,6 +5,8 @@ but I also fiddled around a lot with Arduino projects at home.
 - I know my way around RaspberryPI, Linux and Python.
 - I know how to protype my own PCB's.
 - Some Projects:
+  - C firmware for industrial Print and Apply machine: https://github.com/arthurpc02/print-and-apply
+  - Automatic Fish feeder: https://github.com/arthurpc02/AutomaticFishFeeder
   - Youtube Playlist showcase. (Imersao Alura): https://alura-tube-rho.vercel.app/
   - By 2014 I made my own game: https://arthurpc02.itch.io/
 
