@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Arthur! I learned to programm in 2010 and never stopped eversince. Most of the stuff I programmed were for the university and for my job,
+- 👋 Hi, I’m Arthur! I learned to programm in 2010 and never stopped ever since. Most of the stuff I programmed were for the university and for my job,
 but I also fiddled around a lot with Arduino projects at home.
 - Currently working with Embedded Systems for cars using AUTOSAR architecture.
-- I can handle C and C++. I know a lot about ESP32, FreeRTOS and Arduino.
+- I can handle C, and I know a lot about ESP32, FreeRTOS and Arduino.
 - I know my way around RaspberryPI, Linux and Python.
 - I know how to protype my own PCB's.
 - Some Projects:
