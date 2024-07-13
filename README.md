@@ -11,7 +11,7 @@ I am programmer for more than 14 years now. Most of the stuff I programmed were 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [arthurpc02@gmail.com](mailto:arthurpc02@gmail.com)
 * 🚀  I'm currently working on [TabNews clone](http://tutunauta.com.br)
-* 🧠  I'm learning Web
+* 🧠  I'm learning Web development in my free time
 * ⚡  My favorite technology is Git! I can't live without it.
 
 ### Skills
