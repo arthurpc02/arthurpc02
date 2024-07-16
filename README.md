@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am programmer for more than 14 years now. Most of the stuff I programmed were for my job and some for the university, but I also do some hobby coding. I love embedded controllers like Arduino and RaspberryPI. I also love music!
 
 > Some of my favorite Projects:
-> - I am building a clone of one of my favorite website. Follow the development here: https://github.com/arthurpc02/clone-tabnews
 > - C firmware for industrial Print and Apply machine: https://github.com/arthurpc02/print-and-apply
+> - I am building a clone of one of my favorite website. Follow the development here: https://github.com/arthurpc02/clone-tabnews
 > - By 2014 I made my own game: https://arthurpc02.itch.io/. It's ugly, but it was funny to develop!
 
 * 🌍  I'm based in Brazil
