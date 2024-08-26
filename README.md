@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am programmer for more than 14 years now. Most of the stuff I programmed were for my job and some for the university, but I also do some hobby coding. I love embedded controllers like Arduino and RaspberryPI. I also love music!
 
 > Some of my favorite Projects:
-> - C firmware for industrial Print and Apply machine: [Print & Apply](https://github.com/arthurpc02/print-and-apply)
+> - A data engineering project working with real time robot speed analysis: [Robot-Speed-Anomaly-Detection](https://github.com/arthurpc02/RobotSpeedAnomalyDetection)
+> - A Django app for logging your learning projects: [Learning-log](https://github.com/arthurpc02/Learning-Log)
 > - My BSc's in Mechatronics Engineering final project: [SupervisioWebServer](https://github.com/arthurpc02/SupervisioWebServer)
 > - I am building a clone of one of my favorite website. Follow the development here: [CloneTabNews](https://github.com/arthurpc02/clone-tabnews
 )
