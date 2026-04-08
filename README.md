@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arthur
 ==============================================================================================================================
 
-I am programmer for more than 14 years now. Most of the stuff I programmed were for my job and some for the university, but I also do some hobby coding. I love embedded controllers like Arduino and RaspberryPI. I also love music!
+I have been a programmer for more than 14 years now. Most of the stuff I programmed were for my job and some for the university, but I also do some hobby coding. I love embedded controllers like Arduino and RaspberryPI. I also love music!
 
 > Some of my favorite Projects:
 > - A data engineering project working with real time robot speed analysis: [Robot-Speed-Anomaly-Detection](https://github.com/arthurpc02/RobotSpeedAnomalyDetection)
